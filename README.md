@@ -119,6 +119,6 @@ Based on cluster profiles, we propose the following strategies:
 ## Acknowledgments
 
 We would like to thank:
-- **Professor Farina Pontejos** for his guidance and feedback.
+- **Professor Farina Pontejos** for her guidance and feedback.
 - Open-source libraries such as **scikit-learn**, **pandas**, and **matplotlib** for enabling our analysis.
 
