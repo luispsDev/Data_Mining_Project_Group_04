@@ -33,7 +33,7 @@ This project aimed to develop a customer segmentation strategy for **ABCDEats, I
 
 ## Introduction
 
-The goal of this project is to analyze customer behavior and create a segmentation strategy that enhances **ABCDEats, Inc.**'s marketing efforts. Through detailed analysis of customer data, we sought to answer the following question:
+This project aims to analyze customer behavior and create a segmentation strategy that enhances **ABCDEats, Inc.**'s marketing efforts. Through detailed analysis of customer data, we sought to answer the following question:
 
 **"How can we group customers based on their purchasing behavior to design targeted marketing strategies?"**
 
@@ -58,9 +58,9 @@ We identified six distinct customer clusters using a combination of KMeans and H
 1. **Selective Spenders**: High spend per order but low frequency.
 2. **The Average Joe**: Large volume of low-value orders.
 3. **Revenue Powerhouses**: Highest overall spend and order volume.
-4. **Western Preference Shoppers**: Preference for Western cuisines with lower spend.
+4. **Western Preference Shoppers**: Preference for Western cuisines with lower spending.
 5. **Occasional High Spenders on Asian Cuisine**: Low frequency but high-value Asian cuisine orders.
-6. **Popular Asian Cuisine Enthusiasts**: Moderate spend with a focus on popular Asian dishes.
+6. **Popular Asian Cuisine Enthusiasts**: Moderate spending focusing on popular Asian dishes.
 
 Each cluster was analyzed and profiled to guide targeted business strategies.
 
